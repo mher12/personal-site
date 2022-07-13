@@ -41,8 +41,11 @@ a {
     color: var(--text);
 }
 
+.btn {
+    display: flex;
+   }
+
 input {
-    display: block;
     margin: 20px 0 0;
     width: 160px;
     box-sizing: border-box;
