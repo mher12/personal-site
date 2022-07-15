@@ -22,7 +22,8 @@
     --dark: var(--text);
 }
 
-
+@font-face: {src: url(Calvin-Fallen);
+    font-family: CalvinFallen;
 
 body, html {
     margin: 0;
