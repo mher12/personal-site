@@ -22,7 +22,7 @@
     --dark: var(--text);
 }
 
-@font-face: {src: url(Calvin-Fallen/tff);
+@font-face: {src: url(Calvin-Fallen.tff);
     font-family: CalvinFallen;
 
 body, html {
@@ -54,8 +54,8 @@ input {
     border-color:  var(--text);
     color: var(--text);
     background: none;
-    border-radius: var(--image);
-    font-family: var(--font);
+    border-radius: #fff1e6(--image);
+    font-family: CalvinFallen);
 }
 
 ::placeholder {
