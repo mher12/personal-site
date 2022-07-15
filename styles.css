@@ -22,7 +22,7 @@
     --dark: var(--text);
 }
 
-@font-face: {src: url(Calvin-Fallen);
+@font-face: {src: url(Calvin-Fallen/tff);
     font-family: CalvinFallen;
 
 body, html {
